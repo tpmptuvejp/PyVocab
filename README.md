@@ -1,1 +1,1 @@
-# PyVocab
+# WordPy
