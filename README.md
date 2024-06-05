@@ -1,4 +1,24 @@
 # WordPy
 
-WordPy
-WordPy is a Python project designed to manage and manipulate words and concepts efficiently. This repository includes essential scripts and data to support various word-related operations. Contributions are welcome. Please fork the repository and create a pull request with your changes.
+WordPy is a Python-based project designed for handling and manipulating word concepts. This repository includes a script for processing words and a JSON file containing word concepts.
+
+## Features
+
+- Process key words from the user input using "re" then, find and display the meaning and example from the JSON file.
+- Extendable JSON structure for adding new word concepts from the program UI or manually form the file.
+
+## Requirements
+
+- Install python from https://www.python.org/downloads/
+
+## Installation
+
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/tpmptuvejp/WordPy
+    ```
+
+2. Navigate to the project directory:
+    ```sh
+    cd WordPy
+    ```
