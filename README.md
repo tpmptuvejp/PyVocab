@@ -1,6 +1,6 @@
 # WordPy
 
-WordPy is a Python-based project designed for handling and manipulating word concepts. This repository includes a script for processing words and a JSON file containing word concepts.
+WordPy is a Python-based project designed for finding and explaining python concepts. This repository includes a script for processing words and a JSON file containing word concepts.
 
 ## Features
 
